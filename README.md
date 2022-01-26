@@ -21,6 +21,8 @@
 
 # API
 
+nodejs + postgresql
+
 /user - 로그인 / 회원가입
 
 /planner - 플래너 관리 ( day + task + time )
