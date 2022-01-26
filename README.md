@@ -5,6 +5,15 @@
 
 커스터마이즈가 가능한 스터디 플래너 어플리케이션
 
+<img width="1368" alt="스크린샷 2022-01-26 오후 9 17 34" src="https://user-images.githubusercontent.com/62409503/151162701-65faf3aa-c760-4060-98ee-9756b2559c4f.png">
+<img width="1373" alt="스크린샷 2022-01-26 오후 9 17 51" src="https://user-images.githubusercontent.com/62409503/151162708-f2bd10c4-2347-4256-9889-f136ab5878c4.png">
+<img width="1383" alt="스크린샷 2022-01-26 오후 9 18 15" src="https://user-images.githubusercontent.com/62409503/151162711-b302f460-e2f8-4620-af69-871fa09de9ea.png">
+<img width="1075" alt="스크린샷 2022-01-26 오후 9 20 03" src="https://user-images.githubusercontent.com/62409503/151162715-da32d8b0-cd79-4f20-bb47-ff5070c96ed2.png">
+<img width="1065" alt="스크린샷 2022-01-26 오후 9 20 10" src="https://user-images.githubusercontent.com/62409503/151162718-db3bceed-310b-42d2-b3b8-5e7fb56cf258.png">
+<img width="1075" alt="스크린샷 2022-01-26 오후 9 20 58" src="https://user-images.githubusercontent.com/62409503/151162723-de83eb59-0139-4f85-a4e2-7e5526b2278c.png">
+<img width="1370" alt="스크린샷 2022-01-26 오후 9 21 16" src="https://user-images.githubusercontent.com/62409503/151162728-fe089b64-8d85-4483-a592-f2fc79e128a0.png">
+<img width="1379" alt="스크린샷 2022-01-26 오후 9 21 28" src="https://user-images.githubusercontent.com/62409503/151162732-d9079bba-b07a-4c74-a75b-fd8d49ea9439.png">
+
 
 # DB Schema
 
