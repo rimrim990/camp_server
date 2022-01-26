@@ -12,25 +12,25 @@
 
 # API
 
-/user
+/user - 로그인 / 회원가입
 
-/day
+/planner - 플래너 관리 ( day + task + time )
 
-/task
+/day - 날짜별 계획 관리 
 
-/time
+/task - 해야 할 일 관리
 
-/planner
+/time - 공부 시간 관리
 
-/memo
+/memo - 사용자 메모 관리
 
 -------
 
-/follow
+/follow - 다른 사용자 팔로잉
 
-/like
+/like - 좋아요
 
-/book
+/book - 교과서 관리
 
 
 
