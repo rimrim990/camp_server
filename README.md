@@ -1,11 +1,14 @@
 # CS496_Week4
 
-스터디 플래너 어플리케이션
-----
+<img width="300" src="https://user-images.githubusercontent.com/62409503/151159288-f79c865b-a6d9-48b7-b44d-4ab353a1f366.jpg" />
+
+
+커스터마이즈가 가능한 스터디 플래너 어플리케이션
+
 
 # DB Schema
 
-<img width="400" alt="KakaoTalk_20220126_194227477" src="https://user-images.githubusercontent.com/62409503/151154880-12f146d7-e184-47d8-946c-2765978bcaf1.png" />
+<img width="600" alt="KakaoTalk_20220126_194227477" src="https://user-images.githubusercontent.com/62409503/151154880-12f146d7-e184-47d8-946c-2765978bcaf1.png" />
 
 ## TAB1 - Discover
 
