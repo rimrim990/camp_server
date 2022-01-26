@@ -10,6 +10,30 @@
 
 <img width="600" alt="KakaoTalk_20220126_194227477" src="https://user-images.githubusercontent.com/62409503/151154880-12f146d7-e184-47d8-946c-2765978bcaf1.png" />
 
+# API
+
+/user
+
+/day
+
+/task
+
+/time
+
+/planner
+
+/memo
+
+-------
+
+/follow
+
+/like
+
+/book
+
+
+
 ## Tab1 - Discover
 
 다른 사용자들과 교과서를 검색할 수 있으며 내가 저장한 교과서 목록도 조회할 수 있다.
